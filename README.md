@@ -1,2 +1,2 @@
 # reddit-NLP
-Natural Language Processing Tasks using Redit Data
+Natural Language Processing Tasks using Reddit Posts
